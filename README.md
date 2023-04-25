@@ -15,11 +15,9 @@
   transform: translate(-50%, -50%);
 }
 </style>
-</head>
-<body>
 
 <div class="container">
-  <img src="img_snow_wide.jpg](https://www.dwsit.com/upload/backend-development-1584616173.jpg" alt="Snow" style="width:100%;">
+  <img src="dwsit.com/upload/backend-development-1584616173.jpg" alt="Snow" style="width:100%;">
 
   <div class="centered">
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
