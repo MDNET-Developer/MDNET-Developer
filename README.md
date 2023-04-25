@@ -11,6 +11,7 @@
 - Radio Player Windows Forms [Radio_player](https://github.com/MDNET-Developer?tab=repositories)
 
 - Public Transport System [Publictransport_Project](https://github.com/MDNET-Developer/Publictransport_Project)
+- Blog Website [CoreBlogProject](https://github.com/MDNET-Developer/Publictransport_Project](https://github.com/MDNET-Developer/CoreBlogProject)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MDNET-Developer?tab=repositories](https://github.com/MDNET-Developer?tab=repositories)
 
