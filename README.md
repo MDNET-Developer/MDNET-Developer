@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
   <img align="center" alt="Coding" height="80%" src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg">
 
