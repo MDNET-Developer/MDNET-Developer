@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-  <img align="center" alt="Coding" width="400" src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg">
+  <img align="center" alt="Coding" src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg">
 
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
    <h3 align="center">.NET Developer</h3>
