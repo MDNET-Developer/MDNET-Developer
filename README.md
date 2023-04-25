@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
 <h3 align="center">.NET Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnet-developer" alt="mdnet-developer" /></a> </p>
 
+<h3>My Projects</h3>
 - ASP.NET 7 Identity [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web)
 
 - 🌱 I’m currently learning **React**
