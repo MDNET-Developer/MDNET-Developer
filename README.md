@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
 <h3 align="center">.NET Developer</h3>
-<hr/>
+
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif">
 
 <h3>My Projects</h3>
