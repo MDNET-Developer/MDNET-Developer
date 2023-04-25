@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-  <img align="center" alt="Coding" width="400" src="">
+  <img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E16AQGIIreTCQ6dBQ/profile-displaybackgroundimage-shrink_350_1400/0/1666432274914?e=1687996800&v=beta&t=8PXAJoBrsB0CfNiPQ99Chi595A5P8yoxyvck0haoz4c">
 
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
    <h3 align="center">.NET Developer</h3>
