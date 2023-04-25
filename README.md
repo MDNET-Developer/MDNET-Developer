@@ -3,7 +3,7 @@
 
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
    <h3 align="center">.NET Developer</h3>
-
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-auditoria-23.gif">
 
