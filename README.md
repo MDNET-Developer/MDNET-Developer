@@ -1,6 +1,31 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
-<h3 align="center">.NET Developer</h3>
+
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="img_snow_wide.jpg](https://www.dwsit.com/upload/backend-development-1584616173.jpg" alt="Snow" style="width:100%;">
+
+  <div class="centered">
+   <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
+   <h3 align="center">.NET Developer</h3>
+ </div>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif">
 
