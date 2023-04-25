@@ -1,23 +1,7 @@
 ### Hi there 👋
 
-<style>
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-</style>
-
-<div class="container">
-  <img src="dwsit.com/upload/backend-development-1584616173.jpg" alt="Snow" style="width:100%;">
+<div>
+  <img src="dwsit.com/upload/backend-development-1584616173.jpg">
 
   <div class="centered">
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
