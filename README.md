@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-  <img alt="Coding" src="dwsit.com/upload/backend-development-1584616173.jpg">
+  <img align="center" alt="Coding" width="400" src="">
 
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
    <h3 align="center">.NET Developer</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif">
+<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-auditoria-23.gif">
 
 <h3>My Projects</h3>
 - ASP.NET 7 Identity [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web)
