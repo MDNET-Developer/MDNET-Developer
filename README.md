@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-<div>
-  <img src="dwsit.com/upload/backend-development-1584616173.jpg">
 
-  <div class="centered">
+  <img alt="Coding" src="dwsit.com/upload/backend-development-1584616173.jpg">
+
    <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
    <h3 align="center">.NET Developer</h3>
- </div>
-</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif">
 
