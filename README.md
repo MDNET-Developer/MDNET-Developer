@@ -1,16 +1,15 @@
-<!-- Profile Banner -->
+<!-- Modern Banner -->
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg" alt="banner" width="70%"/>
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Modern Programmer Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<!-- Title -->
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
-<h3 align="center">🧑‍💻 .NET Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">.NET Developer</h3>
 
----
+<br />
 
-<!-- GIF -->
-<img align="right" alt="Coding" width="350" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-auditoria-23.gif">
+<!-- Right aligned GIF -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" style="border-radius: 10px;" />
 
 ### My Projects
 - ASP.NET 7 Identity [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web)
@@ -18,29 +17,21 @@
 - Public Transport System [Publictransport_Project](https://github.com/MDNET-Developer/Publictransport_Project)
 - Blog Website [CoreBlogProject](https://github.com/MDNET-Developer/CoreBlogProject)
 
----
+### 🌱 I’m currently learning:
+- **React, Redis, RabbitMQ, Microservices**
 
-### 🌱 I’m currently learning
-- Redis
-- RabbitMQ
-- Microservices
+👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/MDNET-Developer?tab=repositories)
 
----
+💬 Ask me about **C#, SQL, .NET**
 
-### 💬 Ask me about
-- C#, SQL, .NET, Entity Framework, Windows Forms
-
----
-
-### 📫 How to reach me
-- murad.aliyev.net@gmail.com
+📫 How to reach me: **murad.aliyev.net@gmail.com**
 
 ---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/murad-aliyev-85318024b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/murad-aliyev-85318024b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
@@ -62,9 +53,10 @@
 
 ---
 
-### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnet-developer&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnet-developer&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnet-developer&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true" alt="GitHub Stats" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnet-developer&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
