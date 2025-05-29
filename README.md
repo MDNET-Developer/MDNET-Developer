@@ -9,7 +9,7 @@
 <br />
 
 <!-- Right aligned GIF -->
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" style="border-radius: 10px;" />
+<img align="right" alt="Coding" width="350" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif.gif" style="border-radius: 10px;" />
 
 ### My Projects
 - ASP.NET 7 Identity [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web)
