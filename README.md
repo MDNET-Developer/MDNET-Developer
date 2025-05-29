@@ -1,6 +1,6 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Modern Programmer Banner" width="70%" style="border-radius: 10px;" />
+  <img src="[https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80](https://camo.githubusercontent.com/e6ebed0f301f416dccd5391bb5ecb77f2204d8cbd64a62f2a2098475e1876678/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)" alt="Modern Programmer Banner" width="70%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
