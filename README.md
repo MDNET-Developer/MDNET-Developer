@@ -1,6 +1,6 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Modern Programmer Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80" alt="Modern Programmer Banner" width="70%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
