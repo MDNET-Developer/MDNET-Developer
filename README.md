@@ -1,70 +1,84 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://blog.talent500.co/wp-content/uploads/2020/10/971-compressed-1500x500.jpg" alt="banner" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80" alt="banner" width="100%" style="border-radius:8px"/>
 </p>
 
-<!-- Title -->
 <h1 align="center">Hi 👋, I'm Murad Aliyev</h1>
-<h3 align="center">🧑‍💻 .NET Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">.NET Developer | Backend Enthusiast | Learning Microservices</h3>
 
 ---
 
-<!-- GIF -->
-<img align="right" alt="Coding" width="350" src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-auditoria-23.gif">
+## 🚀 About Me
 
-### My Projects
-- ASP.NET 7 Identity [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web)
-- Radio Player Windows Forms [Radio_player](https://github.com/MDNET-Developer?tab=repositories)
-- Public Transport System [Publictransport_Project](https://github.com/MDNET-Developer/Publictransport_Project)
-- Blog Website [CoreBlogProject](https://github.com/MDNET-Developer/CoreBlogProject)
-
----
-
-### 🌱 I’m currently learning
-- Redis
-- RabbitMQ
-- Microservices
+- 🔭 I’m currently working on ASP.NET Core and building scalable backend APIs  
+- 🌱 I’m learning **React**, **Redis**, **RabbitMQ**, and **Microservices**  
+- 👨‍💻 Passionate about clean code, software architecture & continuous learning  
+- 📫 Reach me: [murad.aliyev.net@gmail.com](mailto:murad.aliyev.net@gmail.com)  
+- ⚡ Fun fact: I enjoy coding while listening to lo-fi beats 🎧  
 
 ---
 
-### 💬 Ask me about
-- C#, SQL, .NET, Entity Framework, Windows Forms
+## 🛠️ My Projects
+
+- [AspNetCore7_IdentityApp.Web](https://github.com/MDNET-Developer/AspNetCore7_IdentityApp.Web) - ASP.NET 7 Identity system  
+- [Radio Player Windows Forms](https://github.com/MDNET-Developer/Radio_player) - Desktop radio streaming app  
+- [Public Transport System](https://github.com/MDNET-Developer/Publictransport_Project) - Transport tracking system  
+- [Core Blog Project](https://github.com/MDNET-Developer/CoreBlogProject) - Blog website with .NET Core  
+
+Find all my projects 👉 [GitHub Repositories](https://github.com/MDNET-Developer?tab=repositories)
 
 ---
 
-### 📫 How to reach me
-- aliyev.murad.net@gmail.com
+## 🔧 Languages & Tools
 
----
-
-### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/murad-aliyev-85318024b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-
----
-
-### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnet-developer&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnet-developer&theme=dark" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnet-developer&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true" alt="GitHub Stats" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnet-developer&theme=dark&hide_border=true" alt="GitHub Streak" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnet-developer&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnet-developer&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mdnet-developer.mdnet-developer&style=flat-square" alt="Visitor Badge" />
+</p>
+
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/murad-aliyev-85318024b/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:murad.aliyev.net@gmail.com" target="_blank" rel="noopener">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
+  </a>
 </p>
