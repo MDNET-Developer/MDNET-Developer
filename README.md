@@ -24,7 +24,7 @@
 
 💬 Ask me about **C#, SQL, .NET**
 
-📫 How to reach me: **murad.aliyev.net@gmail.com**
+📫 How to reach me: **aliyev.murad.net@gmail.com**
 
 ---
 
